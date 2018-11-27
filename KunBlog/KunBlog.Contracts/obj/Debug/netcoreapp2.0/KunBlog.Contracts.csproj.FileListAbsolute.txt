@@ -1,0 +1,17 @@
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Contracts\bin\Debug\netcoreapp2.0\KunBlog.Contracts.deps.json
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Contracts\bin\Debug\netcoreapp2.0\KunBlog.Contracts.dll
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Contracts\bin\Debug\netcoreapp2.0\KunBlog.Contracts.pdb
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Contracts\obj\Debug\netcoreapp2.0\KunBlog.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Contracts\obj\Debug\netcoreapp2.0\KunBlog.Contracts.AssemblyInfoInputs.cache
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Contracts\obj\Debug\netcoreapp2.0\KunBlog.Contracts.AssemblyInfo.cs
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Contracts\obj\Debug\netcoreapp2.0\KunBlog.Contracts.dll
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Contracts\obj\Debug\netcoreapp2.0\KunBlog.Contracts.pdb
+D:\POC\KunBlog\KunBlog.Contracts\bin\Debug\netcoreapp2.0\KunBlog.Contracts.deps.json
+D:\POC\KunBlog\KunBlog.Contracts\bin\Debug\netcoreapp2.0\KunBlog.Contracts.dll
+D:\POC\KunBlog\KunBlog.Contracts\bin\Debug\netcoreapp2.0\KunBlog.Contracts.pdb
+D:\POC\KunBlog\KunBlog.Contracts\obj\Debug\netcoreapp2.0\KunBlog.Contracts.csprojResolveAssemblyReference.cache
+D:\POC\KunBlog\KunBlog.Contracts\obj\Debug\netcoreapp2.0\KunBlog.Contracts.csproj.CoreCompileInputs.cache
+D:\POC\KunBlog\KunBlog.Contracts\obj\Debug\netcoreapp2.0\KunBlog.Contracts.AssemblyInfoInputs.cache
+D:\POC\KunBlog\KunBlog.Contracts\obj\Debug\netcoreapp2.0\KunBlog.Contracts.AssemblyInfo.cs
+D:\POC\KunBlog\KunBlog.Contracts\obj\Debug\netcoreapp2.0\KunBlog.Contracts.dll
+D:\POC\KunBlog\KunBlog.Contracts\obj\Debug\netcoreapp2.0\KunBlog.Contracts.pdb

@@ -1,0 +1,63 @@
+﻿@model KunBlog.Web.Models.AccountViewModels.RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_AccountLayout";
+}
+
+<div class="limiter">
+    <div class="container-login100">
+        <div class="wrap-login100">
+            <form asp-route-returnUrl="@ViewData["ReturnUrl"]" asp-action="Register" method="post" class="m-login__form m-form">
+                <span class="login100-form-title p-b-26">
+                    Sign Up
+                </span>
+                <hr />
+                <div class="m-login__desc">
+                    Enter your details to create your account:
+                </div>
+                <div asp-validation-summary="All" class="text-danger"></div>
+
+                <hr />
+                <div class="wrap-input100">
+                    <input asp-for="Email" id="RegEmail" class="input100" type="text" />
+                    <span class="focus-input100" data-placeholder="Email"></span>
+                </div>
+
+                <div class="wrap-input100">
+                    <span class="btn-show-pass">
+                        <i class="zmdi zmdi-eye"></i>
+                    </span>
+                    <input asp-for="Password" id="RegPassword" class="input100" />
+                    <span class="focus-input100" data-placeholder="Password"></span>
+                </div>
+
+                <div class="wrap-input100">
+                    <span class="btn-show-pass">
+                        <i class="zmdi zmdi-eye"></i>
+                    </span>
+                    <input asp-for="ConfirmPassword" class="input100" />
+                    <span class="focus-input100" data-placeholder="Confirm Password"></span>
+                </div>
+
+                <div class="container-login100-form-btn">
+                    <div class="wrap-login100-form-btn">
+                        <div class="login100-form-bgbtn"></div>
+                        <button class="login100-form-btn">
+                            Sign up
+                        </button>
+                    </div>
+                </div>
+
+                <div class="text-center p-t-115">
+                    <span class="txt1">
+                        Back to login page
+                    </span>
+
+                    <a class="txt2" href="@Url.Action("Login","Account")">
+                        Login
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

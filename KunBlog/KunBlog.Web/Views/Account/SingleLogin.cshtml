@@ -1,0 +1,15 @@
+﻿@using KunBlog.Database.Context
+@inject SignInManager<ApplicationUser> SignInManager
+
+@{
+    ViewData["Title"] = "Log in";
+    Layout = "_AccountLayout";
+}
+
+@await Html.PartialAsync("Login")
+@await Html.PartialAsync("Register")
+
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

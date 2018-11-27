@@ -1,0 +1,24 @@
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Database\bin\Debug\netcoreapp2.0\KunBlog.Database.deps.json
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Database\bin\Debug\netcoreapp2.0\KunBlog.Database.dll
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Database\bin\Debug\netcoreapp2.0\KunBlog.Database.pdb
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Database\bin\Debug\netcoreapp2.0\KunBlog.Contracts.dll
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Database\bin\Debug\netcoreapp2.0\KunBlog.Contracts.pdb
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Database\obj\Debug\netcoreapp2.0\KunBlog.Database.csprojResolveAssemblyReference.cache
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Database\obj\Debug\netcoreapp2.0\KunBlog.Database.csproj.CoreCompileInputs.cache
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Database\obj\Debug\netcoreapp2.0\KunBlog.Database.AssemblyInfoInputs.cache
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Database\obj\Debug\netcoreapp2.0\KunBlog.Database.AssemblyInfo.cs
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Database\obj\Debug\netcoreapp2.0\KunBlog.Database.csproj.CopyComplete
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Database\obj\Debug\netcoreapp2.0\KunBlog.Database.dll
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Database\obj\Debug\netcoreapp2.0\KunBlog.Database.pdb
+D:\POC\KunBlog\KunBlog.Database\bin\Debug\netcoreapp2.0\KunBlog.Database.deps.json
+D:\POC\KunBlog\KunBlog.Database\bin\Debug\netcoreapp2.0\KunBlog.Database.dll
+D:\POC\KunBlog\KunBlog.Database\bin\Debug\netcoreapp2.0\KunBlog.Database.pdb
+D:\POC\KunBlog\KunBlog.Database\bin\Debug\netcoreapp2.0\KunBlog.Contracts.dll
+D:\POC\KunBlog\KunBlog.Database\bin\Debug\netcoreapp2.0\KunBlog.Contracts.pdb
+D:\POC\KunBlog\KunBlog.Database\obj\Debug\netcoreapp2.0\KunBlog.Database.csprojResolveAssemblyReference.cache
+D:\POC\KunBlog\KunBlog.Database\obj\Debug\netcoreapp2.0\KunBlog.Database.csproj.CoreCompileInputs.cache
+D:\POC\KunBlog\KunBlog.Database\obj\Debug\netcoreapp2.0\KunBlog.Database.AssemblyInfoInputs.cache
+D:\POC\KunBlog\KunBlog.Database\obj\Debug\netcoreapp2.0\KunBlog.Database.AssemblyInfo.cs
+D:\POC\KunBlog\KunBlog.Database\obj\Debug\netcoreapp2.0\KunBlog.Database.csproj.CopyComplete
+D:\POC\KunBlog\KunBlog.Database\obj\Debug\netcoreapp2.0\KunBlog.Database.dll
+D:\POC\KunBlog\KunBlog.Database\obj\Debug\netcoreapp2.0\KunBlog.Database.pdb

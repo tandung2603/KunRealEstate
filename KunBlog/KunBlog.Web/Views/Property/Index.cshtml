@@ -1,0 +1,60 @@
+﻿@model IEnumerable<PropertyDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "_Layout";
+}
+
+<link rel="stylesheet" type="text/css" href="~/assets/styles/listings_styles.css">
+<link rel="stylesheet" type="text/css" href="~/assets/styles/listings_responsive.css">
+
+@section scripts{
+    <script src="~/clientapp/dist/runtime.js"></script>
+    <script src="~/clientapp/dist/polyfills.js"></script>
+    <script src="~/clientapp/dist/styles.js"></script>
+    <script src="~/clientapp/dist/vendor.js"></script>
+    <script src="~/clientapp/dist/main.js"></script>
+}
+<div class="listings">
+    <div class="container">
+        <the-property></the-property>
+    </div>
+</div>
+
+<!-- Newsletter -->
+
+<div class="newsletter">
+    <div class="container">
+        <div class="row row-equal-height">
+
+            <div class="col-lg-6">
+                <div class="newsletter_title">
+                    <h3>subscribe to our newsletter</h3>
+                    <span class="newsletter_subtitle">Get the latest offers</span>
+                </div>
+                <div class="newsletter_form_container">
+                    <form action="#">
+                        <div class="newsletter_form_content d-flex flex-row">
+                            <input id="newsletter_email" class="newsletter_email" type="email" placeholder="Your email here" required="required" data-error="Valid email is required.">
+                            <button id="newsletter_submit" type="submit" class="newsletter_submit_btn trans_200" value="Submit">subscribe</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <a href="#">
+                    <div class="weekly_offer">
+                        <div class="weekly_offer_content d-flex flex-row">
+                            <div class="weekly_offer_icon d-flex flex-column align-items-center justify-content-center">
+                                <img src="~/assets/images/prize.svg" alt="">
+                            </div>
+                            <div class="weekly_offer_text text-center">weekly offer</div>
+                        </div>
+                        <div class="weekly_offer_image" style="background-image:url(assets/images/weekly.jpg)"></div>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,36 @@
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Api.Receiver.deps.json
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Api.Receiver.runtimeconfig.json
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Api.Receiver.runtimeconfig.dev.json
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Api.Receiver.dll
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Api.Receiver.pdb
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Business.dll
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Contracts.dll
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Database.dll
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Business.pdb
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Contracts.pdb
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Database.pdb
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\obj\Debug\netcoreapp2.0\KunBlog.Api.Receiver.csprojResolveAssemblyReference.cache
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\obj\Debug\netcoreapp2.0\KunBlog.Api.Receiver.csproj.CoreCompileInputs.cache
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\obj\Debug\netcoreapp2.0\KunBlog.Api.Receiver.AssemblyInfoInputs.cache
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\obj\Debug\netcoreapp2.0\KunBlog.Api.Receiver.AssemblyInfo.cs
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\obj\Debug\netcoreapp2.0\KunBlog.Api.Receiver.csproj.CopyComplete
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\obj\Debug\netcoreapp2.0\KunBlog.Api.Receiver.dll
+C:\Users\DungLe\Documents\Visual Studio 2017\Projects\KunBlog\KunBlog.Api.Receiver\obj\Debug\netcoreapp2.0\KunBlog.Api.Receiver.pdb
+D:\POC\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Api.Receiver.deps.json
+D:\POC\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Api.Receiver.runtimeconfig.json
+D:\POC\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Api.Receiver.runtimeconfig.dev.json
+D:\POC\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Api.Receiver.dll
+D:\POC\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Api.Receiver.pdb
+D:\POC\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Business.dll
+D:\POC\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Contracts.dll
+D:\POC\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Database.dll
+D:\POC\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Business.pdb
+D:\POC\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Contracts.pdb
+D:\POC\KunBlog\KunBlog.Api.Receiver\bin\Debug\netcoreapp2.0\KunBlog.Database.pdb
+D:\POC\KunBlog\KunBlog.Api.Receiver\obj\Debug\netcoreapp2.0\KunBlog.Api.Receiver.csprojResolveAssemblyReference.cache
+D:\POC\KunBlog\KunBlog.Api.Receiver\obj\Debug\netcoreapp2.0\KunBlog.Api.Receiver.csproj.CoreCompileInputs.cache
+D:\POC\KunBlog\KunBlog.Api.Receiver\obj\Debug\netcoreapp2.0\KunBlog.Api.Receiver.AssemblyInfoInputs.cache
+D:\POC\KunBlog\KunBlog.Api.Receiver\obj\Debug\netcoreapp2.0\KunBlog.Api.Receiver.AssemblyInfo.cs
+D:\POC\KunBlog\KunBlog.Api.Receiver\obj\Debug\netcoreapp2.0\KunBlog.Api.Receiver.csproj.CopyComplete
+D:\POC\KunBlog\KunBlog.Api.Receiver\obj\Debug\netcoreapp2.0\KunBlog.Api.Receiver.dll
+D:\POC\KunBlog\KunBlog.Api.Receiver\obj\Debug\netcoreapp2.0\KunBlog.Api.Receiver.pdb

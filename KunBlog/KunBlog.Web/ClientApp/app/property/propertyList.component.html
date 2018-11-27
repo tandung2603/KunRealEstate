@@ -1,0 +1,57 @@
+﻿<div class="listing_item"  *ngFor="let p of properties">
+    <div class="listing_item_inner d-flex flex-md-row flex-column trans_300">
+        <div class="listing_image_container">
+            <div class="listing_image">
+                <!-- Image by: https://unsplash.com/@breather -->
+
+                <div class="listing_background" style="background-image:url(assets/images/listing_1.jpg)"></div>
+            </div>
+            <div class="featured_card_box d-flex flex-row align-items-center trans_300">
+                <img src="assets/images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
+                <div class="featured_card_box_content">
+                    <div class="featured_card_price_title trans_300">For Sale</div>
+                    <div class="featured_card_price trans_300">{{ p.price | currency }}</div>
+                </div>
+            </div>
+        </div>
+        <div class="listing_content">
+            <div class="listing_title"><a href="listings_single.html">{{ p.name }}</a></div>
+            <div class="listing_text">{{p.description}}</div>
+            <div class="rooms">
+
+                <div class="room">
+                    <span class="room_title">Bedrooms</span>
+                    <div class="room_content">
+                        <div class="room_image"><img src="assets/images/bedroom.png" alt=""></div>
+                        <span class="room_number">{{p.bedroom}}</span>
+                    </div>
+                </div>
+
+                <div class="room">
+                    <span class="room_title">Bathrooms</span>
+                    <div class="room_content">
+                        <div class="room_image"><img src="assets/images/shower.png" alt=""></div>
+                        <span class="room_number">{{p.bathroom}}</span>
+                    </div>
+                </div>
+
+                <div class="room">
+                    <span class="room_title">Area</span>
+                    <div class="room_content">
+                        <div class="room_image"><img src="assets/images/area.png" alt=""></div>
+                        <span class="room_number">{{p.area}}</span>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="room_tags">
+                <span class="room_tag"><a href="#">Hottub</a></span>
+                <span class="room_tag"><a href="#">Swimming Pool</a></span>
+                <span class="room_tag"><a href="#">Garden</a></span>
+                <span class="room_tag"><a href="#">Patio</a></span>
+                <span class="room_tag"><a href="#">Hard Wood Floor</a></span>
+            </div>
+        </div>
+    </div>
+</div>

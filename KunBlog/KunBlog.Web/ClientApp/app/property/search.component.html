@@ -1,0 +1,104 @@
+﻿<div class="search_box">
+    <div class="search_box_content">
+        <!-- Search Box Title -->
+        <div class="search_box_title text-center">
+            <div class="search_box_title_inner">
+                <div class="search_box_title_icon d-flex flex-column align-items-center justify-content-center"><img src="assets/images/search.png" alt=""></div>
+                <span>{{ title }}</span>
+            </div>
+        </div>
+
+        <!-- Search Form -->
+        <form class="search_form" action="#">
+            <div class="search_box_container">
+                <ul class="dropdown_row clearfix">
+                    <li class="dropdown_item">
+                        <div class="dropdown_item_title">Keywords</div>
+                        <select name="keywords" ngModel="searchParam.keywords" class="dropdown_item_select">
+                            <option>Any</option>
+                            <option>Keyword 1</option>
+                            <option>Keyword 2</option>
+                        </select>
+                    </li>
+                    <li class="dropdown_item">
+                        <div class="dropdown_item_title">Property Status</div>
+                        <select name="property_status" ngModel="searchParam.propertyStatus" class="dropdown_item_select">
+                            <option>Any</option>
+                            <option>Status 1</option>
+                            <option>Status 2</option>
+                        </select>
+                    </li>
+                    <li class="dropdown_item">
+                        <div class="dropdown_item_title">Location</div>
+                        <select name="property_location" ngModel="searchParam.propertyLocation" class="dropdown_item_select">
+                            <option>Any</option>
+                            <option>Location 1</option>
+                            <option>Location 2</option>
+                        </select>
+                    </li>
+                    <li class="dropdown_item">
+                        <div class="dropdown_item_title">Property Type</div>
+                        <select name="property_type" ngModel="searchParam.propertyType" class="dropdown_item_select">
+                            <option>Any</option>
+                            <option>Type 1</option>
+                            <option>Type 2</option>
+                        </select>
+                    </li>
+                    <li class="dropdown_item dropdown_item_half">
+                        <div class="dropdown_item_title">Bedrooms no</div>
+                        <select name="bedrooms_no" ngModel="searchParam.bedroomsNo" class="dropdown_item_select">
+                            <option>Any</option>
+                            <option>1</option>
+                            <option>2</option>
+                        </select>
+                    </li>
+                    <li class="dropdown_item dropdown_item_half">
+                        <div class="dropdown_item_title">Bathrooms no</div>
+                        <select name="bathrooms_no" ngModel="searchParam.bathroomsNo" class="dropdown_item_select">
+                            <option>Any</option>
+                            <option>1</option>
+                            <option>2</option>
+                        </select>
+                    </li>
+                    <li class="dropdown_item dropdown_item_half">
+                        <div class="dropdown_item_title">Min Price</div>
+                        <select name="min_price" ngModel="searchParam.minPrice" class="dropdown_item_select">
+                            <option>Any</option>
+                            <option>$10000</option>
+                            <option>$20000</option>
+                        </select>
+                    </li>
+                    <li class="dropdown_item dropdown_item_half">
+                        <div class="dropdown_item_title">Max Price</div>
+                        <select name="max_price" ngModel="searchParam.maxPrice" class="dropdown_item_select">
+                            <option>Any</option>
+                            <option>$1000000</option>
+                            <option>$2000000</option>
+                        </select>
+                    </li>
+                    <li class="dropdown_item dropdown_item_half">
+                        <div class="dropdown_item_title">Min Sq Ft</div>
+                        <select name="min_sq_ft" ngModel="searchParam.minArea" class="dropdown_item_select">
+                            <option>Any</option>
+                            <option>Any</option>
+                            <option>Any</option>
+                        </select>
+                    </li>
+                    <li class="dropdown_item dropdown_item_half">
+                        <div class="dropdown_item_title">Max Sq Ft</div>
+                        <select name="max_sq_ft" ngModel="searchParam.maxArea" class="dropdown_item_select">
+                            <option>Any</option>
+                            <option>Any</option>
+                            <option>Any</option>
+                        </select>
+                    </li>
+                </ul>
+            </div>
+            <div class="search_features_container">
+                <div class="search_button">
+                    <input value="search" type="submit" class="search_submit_button">
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
